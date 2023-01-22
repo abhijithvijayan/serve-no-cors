@@ -1,4 +1,6 @@
-# serve
+# serve-no-cors
+
+Serve JavaScript from your local machine to the internet without CORS disturbing your inner peace.
 
 ## Getting Started
 
