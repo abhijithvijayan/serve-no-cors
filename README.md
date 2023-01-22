@@ -3,10 +3,13 @@
 ## Getting Started
 
 ```
+# Get this serve config file
 curl -fsSL https://github.com/abhijithvijayan/serve-no-cors/archive/main.tar.gz | tar -xz --strip-components=1 serve-no-cors-main/serve.json
 
+# serve the current folder
 serve . -p 49241
 
+# generate a secure tunnel with ngrok. ref: https://ngrok.com/
 ngrok http 49241
 ```
 
