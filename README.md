@@ -3,7 +3,7 @@
 ## Getting Started
 
 ```
-curl -fsSL https://github.com/abhijithvijayan/serve/archive/main.tar.gz | tar -xz --strip-components=1 serve-main/serve.json
+curl -fsSL https://github.com/abhijithvijayan/serve-no-cors/archive/main.tar.gz | tar -xz --strip-components=1 serve-no-cors-main/serve.json
 
 serve . -p 49241
 
